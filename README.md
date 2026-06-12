@@ -27,14 +27,14 @@
 │   ▸ ROLE       :  CSE Student  |  Aspiring Software Eng.    │
 │   ▸ DEGREE     :  Computer Science & Engineering            │
 │   ▸ YEAR       :  2026  |  Final Year  |  7th Semester      │
-│   ▸ LOCATION   :  Bengaluru,India                           │
+│   ▸ LOCATION   :  Bengaluru, India 🇮🇳                       │
 │   ▸ STATUS     :  [ ● ACTIVE ]  Building & Learning Daily   │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │   Final-year CSE student. I build stuff with Python,        │
 │   web technologies & AWS. Code that works > code that       │
-│   just looks good. When I'm not coding — markets.           │
+│   just looks good. When I'm not coding — markets.          │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
@@ -89,7 +89,8 @@
 
 <br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuns1602-D&layout=compact&theme=github_dark&border_color=00FFFF&title_color=00FFFF&text_color=ffffff&bg_color=0d1117" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuns1602-D&layout=donut&theme=github_dark&border_color=00FFFF&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&langs_count=10&hide_border=false&count_private=true" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varuns1602-D&layout=compact&theme=github_dark&border_color=00FFFF&title_color=00FFFF&text_color=ffffff&bg_color=0d1117&langs_count=10&hide_border=false&count_private=true&card_width=500" />
 
 </div>
 
