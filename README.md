@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=VARUN%20S&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=58&descColor=00FFFF&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=VARUN%20S&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=CSE%20Student%20%7C%20Software%20Developer%20%7C%20Builder&descAlignY=58&descColor=00FFFF&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=I+build+things+that+matter.;Software+Developer+%7C+Problem+Solver;Python+%7C+JS+%7C+Android+%7C+AWS;Turning+ideas+into+reality%2C+one+commit+at+a+time.;%5B+SYSTEM+ONLINE+%5D+%E2%9C%85" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+%7C+Final+Year;Building+practical+solutions+with+clean+code.;Python+%7C+Web+Dev+%7C+Android+%7C+AWS;Learning+in+public.+Shipping+in+private.;%5B+SYSTEM+ONLINE+%5D+%E2%9C%85" alt="Typing SVG" />
 
 <br/>
 
@@ -24,23 +24,23 @@
 │                                                             │
 │   ▸ NAME       :  Varun S                                   │
 │   ▸ ALIAS      :  varuns1602-D                              │
-│   ▸ ROLE       :  Software Developer                        │
-│   ▸ DEGREE     :  Computer Science Engineering              │
-│   ▸ YEAR       :  2026  |  7th Semester                     │
-│   ▸ LOCATION   :  Bengaluru                                 │
-│   ▸ STATUS     :  [ ● ONLINE ]  Building things that matter │
+│   ▸ ROLE       :  CSE Student  |  Aspiring Software Eng.    │
+│   ▸ DEGREE     :  Computer Science & Engineering            │
+│   ▸ YEAR       :  2026  |  Final Year  |  7th Semester      │
+│   ▸ LOCATION   :  Bengaluru,India                           │
+│   ▸ STATUS     :  [ ● ACTIVE ]  Building & Learning Daily   │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│   CSE student passionate about Python, web development      │
-│   & technology. I build practical projects, chase new       │
-│   skills, and explore the world of software & investing.    │
+│   Final-year CSE student. I build stuff with Python,        │
+│   web technologies & AWS. Code that works > code that       │
+│   just looks good. When I'm not coding — markets.           │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│   ▸ CURRENTLY  :  Levelling up on Cloud & System Design     │
-│   ▸ SHIPPING   :  Code at the speed of thought ⚡           │
-│   ▸ NEXT MOVE  :  Always 1 idea away from the big thing 💡  │
+│   ▸ CURRENTLY  :  Deepening AWS & Cloud fundamentals        │
+│   ▸ FOCUS      :  Clean architecture & project quality      │
+│   ▸ NEXT MOVE  :  Internship-ready by mid-2026              │
 │                                                             │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
@@ -111,11 +111,11 @@
 
 | 🛠️ Project | 💡 Description | 🔧 Stack |
 |:---|:---|:---|
-| 🌐 **Personal Portfolio Website** | My own slice of the internet — showcasing who I am and what I build | HTML, CSS, JS |
-| 🤖 **Python Automation Scripts** | Scripts that do the boring stuff so I don't have to | Python |
-| ✅ **To-Do List Web App** | Clean, functional task manager built from scratch | HTML, CSS, JS |
-| 🧮 **Calculator Web App** | Fully functional calculator with a sleek UI | HTML, CSS, JS |
-| 📚 **Academic & Dev Projects** | Various projects built while levelling up | Multi-stack |
+| 🌐 **Personal Portfolio Website** | Responsive portfolio to present my work, skills, and contact — built and deployed independently | HTML, CSS, JS |
+| 🤖 **Python Automation Scripts** | Collection of scripts to automate repetitive file, data, and system tasks | Python |
+| ✅ **To-Do List Web App** | Full CRUD task manager with persistent state and clean responsive UI | HTML, CSS, JS |
+| 🧮 **Calculator Web App** | Browser-based calculator with keyboard support and error handling | HTML, CSS, JS |
+| 📚 **Academic & Personal Projects** | DSA implementations, mini-tools, and coursework projects across multiple domains | Multi-stack |
 
 </div>
 
@@ -129,11 +129,11 @@
 ┌─────────────────────────────────────────────────────────┐
 │                    [ INTERESTS.exe ]                     │
 │                                                          │
-│   💻  Coding            →   It's not work, it's life    │
-│   🌐  Web Development   →   Building the web, one px    │
-│   📈  Investing         →   Money working while I code  │
-│   🎮  Gaming            →   Boss fights = debugging     │
-│   🚀  New Technologies  →   Always in beta mode         │
+│   💻  Software Dev      →   Where problems meet logic   │
+│   🌐  Web Development   →   UI that works & looks good  │
+│   📈  Investing         →   Compounding > salary        │
+│   🎮  Gaming            →   Strategy, not just play     │
+│   🚀  Emerging Tech     →   Cloud, AI, what's next      │
 │                                                          │
 └─────────────────────────────────────────────────────────┘
 ```
@@ -160,8 +160,8 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║     "The best code is the code that solves real problems."  ║
-║                                          — varuns1602-D      ║
+║      "Good code is not written. It is rewritten."           ║
+║                                           — varuns1602-D     ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
