@@ -20,40 +20,37 @@
 
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```python
-class Developer:
-    def __init__(self):
-        self.name        = "varuns1602-D"
-        self.role        = "Software Developer"
-        self.location    = "India 🇮🇳"
-        self.tagline     = "I build things that matter."
-
-    @property
-    def stack(self):
-        return {
-            "languages"  : ["Python", "Java", "C", "JavaScript", "HTML", "CSS"],
-            "mobile"     : ["Android"],
-            "cloud"      : ["AWS ☁️"],
-            "design"     : ["Adobe Illustrator 🎨"],
-            "tools"      : ["Git", "VS Code", "Linux"],
-        }
-
-    def currently(self):
-        return [
-            "🔭 Building things that actually matter",
-            "🌱 Levelling up on Cloud & System Design",
-            "⚡ Shipping code at the speed of thought",
-            "💡 Always 1 idea away from the next big thing",
-        ]
-
-    def __str__(self):
-        return f"{self.name} | {self.tagline}"
-
-me = Developer()
-print(me)
-# >> varuns1602-D | I build things that matter.
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ▸ NAME       :  Varun S                                   │
+│   ▸ ALIAS      :  varuns1602-D                              │
+│   ▸ ROLE       :  Software Developer                        │
+│   ▸ DEGREE     :  Computer Science Engineering              │
+│   ▸ YEAR       :  2026  |  7th Semester                     │
+│   ▸ LOCATION   :  Bengaluru                                 │
+│   ▸ STATUS     :  [ ● ONLINE ]  Building things that matter │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   CSE student passionate about Python, web development      │
+│   & technology. I build practical projects, chase new       │
+│   skills, and explore the world of software & investing.    │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ▸ CURRENTLY  :  Levelling up on Cloud & System Design     │
+│   ▸ SHIPPING   :  Code at the speed of thought ⚡           │
+│   ▸ NEXT MOVE  :  Always 1 idea away from the big thing 💡  │
+│                                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│   ▸ REACH ME   :  varuns1602@gmail.com                      │
+│   ▸ CONNECT ON :  linkedin.com/in/varun-s-180a5934b         │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 <br clear="right"/>
@@ -101,16 +98,6 @@ print(me)
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=varuns1602-D&theme=darkhub&no-frame=true&margin-w=10&margin-h=10&column=7)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -121,12 +108,49 @@ print(me)
 
 ---
 
+## 🚀 Projects
+
+<div align="center">
+
+| 🛠️ Project | 💡 Description | 🔧 Stack |
+|:---|:---|:---|
+| 🌐 **Personal Portfolio Website** | My own slice of the internet — showcasing who I am and what I build | HTML, CSS, JS |
+| 🤖 **Python Automation Scripts** | Scripts that do the boring stuff so I don't have to | Python |
+| ✅ **To-Do List Web App** | Clean, functional task manager built from scratch | HTML, CSS, JS |
+| 🧮 **Calculator Web App** | Fully functional calculator with a sleek UI | HTML, CSS, JS |
+| 📚 **Academic & Dev Projects** | Various projects built while levelling up | Multi-stack |
+
+</div>
+
+---
+
+## 🎯 Beyond the Code
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                    [ INTERESTS.exe ]                     │
+│                                                          │
+│   💻  Coding            →   It's not work, it's life    │
+│   🌐  Web Development   →   Building the web, one px    │
+│   📈  Investing         →   Money working while I code  │
+│   🎮  Gaming            →   Boss fights = debugging     │
+│   🚀  New Technologies  →   Always in beta mode         │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/varuns1602-D)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varun-s-180a5934b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varun-s-180a5934b)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/varun.16_2?igsh=MWhzdWk3dnVrZXVkbA%3D%3D&utm_source=qr)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:varuns1602@gmail.com)
 
