@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-██╗   ██╗ █████╗ ██████╗ ██╗   ██╗███╗   ██╗███████╗ ██╗ ██████╗  ██████╗ ██████╗       ██████╗ 
-██║   ██║██╔══██╗██╔══██╗██║   ██║████╗  ██║██╔════╝███║██╔════╝ ██╔═████╗╚════██╗      ██╔══██╗
-██║   ██║███████║██████╔╝██║   ██║██╔██╗ ██║███████╗╚██║███████╗ ██║██╔██║ █████╔╝█████╗██║  ██║
-╚██╗ ██╔╝██╔══██║██╔══██╗██║   ██║██║╚██╗██║╚════██║ ██║██╔═══██╗████╔╝██║██╔═══╝ ╚════╝██║  ██║
- ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚████║███████║ ██║╚██████╔╝╚██████╔╝███████╗      ██████╔╝
-  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝      ╚═════╝ 
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=200&section=header&text=VARUN%20S&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%7C%20CSE%20Student&descAlignY=58&descColor=00FFFF&animation=fadeIn" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=I+build+things+that+matter.;Software+Developer+%7C+Problem+Solver;Python+%7C+JS+%7C+Android+%7C+AWS;Turning+ideas+into+reality%2C+one+commit+at+a+time.;%5B+SYSTEM+ONLINE+%5D+%E2%9C%85" alt="Typing SVG" />
 
@@ -20,7 +13,11 @@
 
 ---
 
-<img align="right" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
+<img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</div>
+
+<div align="center">
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -53,7 +50,7 @@
 └─────────────────────────────────────────────────────────────┘
 ```
 
-<br clear="right"/>
+</div>
 
 ---
 
@@ -150,7 +147,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00FFFF)](https://github.com/varuns1602-D)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=Linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varun-s-180a5934b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/varun-s-180a5934b)
 [![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/varun.16_2?igsh=MWhzdWk3dnVrZXVkbA%3D%3D&utm_source=qr)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:varuns1602@gmail.com)
 
